@@ -1,0 +1,9 @@
+
+requests
+beautifulsoup4
+pypdf
+fastapi
+uvicorn[standard]
+requests
+
+
