@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+
+# Frontend
+node_modules/
+dist/
+
+# Generated files
+*.pdf
